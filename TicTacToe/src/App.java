@@ -22,6 +22,7 @@ public class App extends JFrame {
     int j;
     JLabel[] jLabels;
     JButton jButton=new JButton("restart");
+
     public App() {
 
 
@@ -73,11 +74,17 @@ public class App extends JFrame {
                 if(j%2==0){
                     jLabels[0].setIcon(circle);
                     j++;
+
                 }
                 else {
                     jLabels[0].setIcon(cross);
                     j++;
-                }}
+
+                }
+                    if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+
+                }
 
             }
 
@@ -94,7 +101,9 @@ public class App extends JFrame {
                     else {
                         jLabels[1].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -110,7 +119,9 @@ public class App extends JFrame {
                     else {
                         jLabels[2].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -126,7 +137,9 @@ public class App extends JFrame {
                     else {
                         jLabels[3].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -142,7 +155,9 @@ public class App extends JFrame {
                     else {
                         jLabels[4].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -158,7 +173,9 @@ public class App extends JFrame {
                     else {
                         jLabels[5].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -174,7 +191,9 @@ public class App extends JFrame {
                     else {
                         jLabels[6].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -190,7 +209,9 @@ public class App extends JFrame {
                     else {
                         jLabels[7].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -206,7 +227,9 @@ public class App extends JFrame {
                     else {
                         jLabels[8].setIcon(cross);
                         j++;
-                    }}
+                    }if(k0+k1+k2+k3+k4+k5+k6+k7+k8==9)
+                        JOptionPane.showMessageDialog(null,"Game Over");
+                }
             }
 
         });
@@ -280,6 +303,7 @@ public class App extends JFrame {
 
 
         jFrame.setVisible(true);
+
     }
 
 
