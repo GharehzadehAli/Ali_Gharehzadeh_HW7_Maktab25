@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20dfb5e8-ab41-4b12-a9bf-6d21120344c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/TicTacToe/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="20dfb5e8-ab41-4b12-a9bf-6d21120344c3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="231" column="16" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="16" />
+            <state relative-caret-position="354">
+              <caret line="235" lean-forward="true" selection-start-line="235" selection-end-line="235" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Restart#0;class#App#0" />
@@ -184,12 +159,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557216296361</updated>
       <workItem from="1557216303577" duration="21535000" />
-      <workItem from="1557316240628" duration="1649000" />
+      <workItem from="1557316240628" duration="1817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23184000" />
+    <option name="totallyTimeSpent" value="23352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -204,7 +179,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,8 +231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="231" column="16" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="16" />
+        <state relative-caret-position="354">
+          <caret line="235" lean-forward="true" selection-start-line="235" selection-end-line="235" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Restart#0;class#App#0" />
